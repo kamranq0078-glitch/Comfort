@@ -1,0 +1,12 @@
+[
+  {
+    "id": "together",
+    "image": "assets/photos/together.jpeg",
+    "alt": "A cozy photo of us together"
+  },
+  {
+    "id": "her",
+    "image": "assets/photos/her.jpeg",
+    "alt": "A candid portrait of you"
+  }
+]
